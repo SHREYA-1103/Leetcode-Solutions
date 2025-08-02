@@ -127,5 +127,45 @@ This repository includes detailed solutions to problems I’ve solved on LeetCod
 | 118  | Pascal's Triangle                          |        | Easy   | [Link](https://leetcode.com/problems/pascals-triangle/)           |
 | 119  | Pascal's Triangle II                       |        | Easy   | [Link](https://leetcode.com/problems/pascals-triangle-ii/)        |
 | 120  | Triangle                                   |        | Medium | [Link](https://leetcode.com/problems/triangle/)                   |
+| 121  | Best Time to Buy and Sell Stock           |        | Easy   | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 122  | Best Time to Buy and Sell Stock II        |        | Medium | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
+| 123  | Best Time to Buy and Sell Stock III       |        | Hard   | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
+| 124  | Binary Tree Maximum Path Sum              |        | Hard   | [Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |
+| 125  | Valid Palindrome                          |        | Easy   | [Link](https://leetcode.com/problems/valid-palindrome/)           |
+| 126  | Word Ladder II                            |        | Hard   | [Link](https://leetcode.com/problems/word-ladder-ii/)             |
+| 127  | Word Ladder                               |        | Hard   | [Link](https://leetcode.com/problems/word-ladder/)                |
+| 128  | Longest Consecutive Sequence              |        | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) |
+| 129  | Sum Root to Leaf Numbers                  |        | Medium | [Link](https://leetcode.com/problems/sum-root-to-leaf-numbers/)   |
+| 130  | Surrounded Regions                        |        | Medium | [Link](https://leetcode.com/problems/surrounded-regions/)         |
+| 131  | Palindrome Partitioning                   |        | Medium | [Link](https://leetcode.com/problems/palindrome-partitioning/)    |
+| 132  | Palindrome Partitioning II                |        | Hard   | [Link](https://leetcode.com/problems/palindrome-partitioning-ii/) |
+| 133  | Clone Graph                               |        | Medium | [Link](https://leetcode.com/problems/clone-graph/)                |
+| 134  | Gas Station                               |        | Medium | [Link](https://leetcode.com/problems/gas-station/)                |
+| 135  | Candy                                     |        | Hard   | [Link](https://leetcode.com/problems/candy/)                      |
+| 136  | Single Number                             |        | Easy   | [Link](https://leetcode.com/problems/single-number/)              |
+| 137  | Single Number II                          |        | Medium | [Link](https://leetcode.com/problems/single-number-ii/)           |
+| 138  | Copy List with Random Pointer             |        | Medium | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/) |
+| 139  | Word Break                                |        | Medium | [Link](https://leetcode.com/problems/word-break/)                 |
+| 140  | Word Break II                             |        | Hard   | [Link](https://leetcode.com/problems/word-break-ii/)              |
+| 141  | Linked List Cycle                         |        | Easy   | [Link](https://leetcode.com/problems/linked-list-cycle/)         |
+| 142  | Linked List Cycle II                      |        | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/)      |
+| 143  | Reorder List                              |        | Medium | [Link](https://leetcode.com/problems/reorder-list/)              |
+| 144  | Binary Tree Preorder Traversal            |        | Easy   | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
+| 145  | Binary Tree Postorder Traversal           |        | Easy   | [Link](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
+| 146  | LRU Cache                                 |        | Medium | [Link](https://leetcode.com/problems/lru-cache/)                 |
+| 147  | Insertion Sort List                       |        | Medium | [Link](https://leetcode.com/problems/insertion-sort-list/)       |
+| 148  | Sort List                                 |        | Medium | [Link](https://leetcode.com/problems/sort-list/)                 |
+| 149  | Max Points on a Line                      |        | Hard   | [Link](https://leetcode.com/problems/max-points-on-a-line/)      |
+| 150  | Evaluate Reverse Polish Notation          |        | Medium | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 151  | Reverse Words in a String                 |        | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| 152  | Maximum Product Subarray                  |        | Medium | [Link](https://leetcode.com/problems/maximum-product-subarray/)  |
+| 153  | Find Minimum in Rotated Sorted Array      |        | Medium | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+| 154  | Find Minimum in Rotated Sorted Array II   |        | Hard   | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |
+| 155  | Min Stack                                 |        | Easy   | [Link](https://leetcode.com/problems/min-stack/)                 |
+| 156  | Binary Tree Upside Down                   |        | Medium | [Link](https://leetcode.com/problems/binary-tree-upside-down/)   |
+| 157  | Read N Characters Given Read4             |        | Easy   | [Link](https://leetcode.com/problems/read-n-characters-given-read4/) |
+| 158  | Read N Characters Given Read4 II - Call multiple times |    | Hard   | [Link](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) |
+| 159  | Longest Substring with At Most Two Distinct Characters | | Hard | [Link](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) |
+| 160  | Intersection of Two Linked Lists          |        | Easy   | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 
 
