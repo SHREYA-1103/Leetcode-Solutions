@@ -217,5 +217,95 @@ This repository includes detailed solutions to problems I’ve solved on LeetCod
 | 208  | Implement Trie (Prefix Tree)                           |        | Medium | [Link](https://leetcode.com/problems/implement-trie-prefix-tree/)    |
 | 209  | Minimum Size Subarray Sum                              |        | Medium | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/)     |
 | 210  | Course Schedule II                                      |        | Medium | [Link](https://leetcode.com/problems/course-schedule-ii/)            |
+| 211  | Add and Search Word – Data structure design               |        | Medium | [Link](https://leetcode.com/problems/add-and-search-word-data-structure-design/) |
+| 212  | Word Search II                                            |        | Hard   | [Link](https://leetcode.com/problems/word-search-ii/)                |
+| 213  | House Robber II                                           |        | Medium | [Link](https://leetcode.com/problems/house-robber-ii/)               |
+| 214  | Shortest Palindrome                                       |        | Hard   | [Link](https://leetcode.com/problems/shortest-palindrome/)           |
+| 215  | Kth Largest Element in an Array                           |        | Medium | [Link](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+| 216  | Combination Sum III                                       |        | Medium | [Link](https://leetcode.com/problems/combination-sum-iii/)           |
+| 217  | Contains Duplicate                                        |        | Easy   | [Link](https://leetcode.com/problems/contains-duplicate/)            |
+| 218  | The Skyline Problem                                       |        | Hard   | [Link](https://leetcode.com/problems/the-skyline-problem/)           |
+| 219  | Contains Duplicate II                                     |        | Easy   | [Link](https://leetcode.com/problems/contains-duplicate-ii/)         |
+| 220  | Contains Duplicate III                                    |        | Medium | [Link](https://leetcode.com/problems/contains-duplicate-iii/)        |
+| 221  | Maximal Square                                            |        | Medium | [Link](https://leetcode.com/problems/maximal-square/)                |
+| 222  | Count Complete Tree Nodes                                 |        | Medium | [Link](https://leetcode.com/problems/count-complete-tree-nodes/)     |
+| 223  | Rectangle Area                                            |        | Medium | [Link](https://leetcode.com/problems/rectangle-area/)                |
+| 224  | Basic Calculator                                          |        | Medium | [Link](https://leetcode.com/problems/basic-calculator/)              |
+| 225  | Implement Stack using Queues                              |        | Easy   | [Link](https://leetcode.com/problems/implement-stack-using-queues/)  |
+| 226  | Invert Binary Tree                                        |        | Easy   | [Link](https://leetcode.com/problems/invert-binary-tree/)            |
+| 227  | Basic Calculator II                                       |        | Medium | [Link](https://leetcode.com/problems/basic-calculator-ii/)           |
+| 228  | Summary Ranges                                           |        | Medium | [Link](https://leetcode.com/problems/summary-ranges/)                |
+| 229  | Majority Element II                                       |        | Medium | [Link](https://leetcode.com/problems/majority-element-ii/)            |
+| 230  | Kth Smallest Element in a BST                             |        | Medium | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
+| 231  | Power of Two                                              |        | Easy   | [Link](https://leetcode.com/problems/power-of-two/)                   |
+| 232  | Implement Queue using Stacks                              |        | Easy   | [Link](https://leetcode.com/problems/implement-queue-using-stacks/)  |
+| 233  | Number of Digit One                                       |        | Hard   | [Link](https://leetcode.com/problems/number-of-digit-one/)           |
+| 234  | Palindrome Linked List                                     |        | Easy   | [Link](https://leetcode.com/problems/palindrome-linked-list/)         |
+| 235  | Lowest Common Ancestor of a Binary Search Tree            |        | Easy   | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
+| 236  | Lowest Common Ancestor of a Binary Tree                   |        | Easy   | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 237  | Delete Node in a Linked List                              |        | Easy   | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/)   |
+| 238  | Product of Array Except Self                             |        | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/)  |
+| 239  | Sliding Window Maximum                                  |        | Hard   | [Link](https://leetcode.com/problems/sliding-window-maximum/)         |
+| 240  | Search a 2D Matrix II                                     |        | Medium | [Link](https://leetcode.com/problems/search-a-2d-matrix-ii/)          |
+| 241  | Different Ways to Add Parentheses                        |        | Medium | [Link](https://leetcode.com/problems/different-ways-to-add-parentheses/) |
+| 242  | Valid Anagram                                             |        | Easy   | [Link](https://leetcode.com/problems/valid-anagram/)                |
+| 243  | Shortest Word Distance                                   |        | Easy   | [Link](https://leetcode.com/problems/shortest-word-distance/)        |
+| 244  | Shortest Word Distance II                                |        | Medium | [Link](https://leetcode.com/problems/shortest-word-distance-ii/)      |
+| 245  | Shortest Word Distance III                               |        | Hard   | [Link](https://leetcode.com/problems/shortest-word-distance-iii/)     |
+| 246  | Strobogrammatic Number                                   |        | Easy   | [Link](https://leetcode.com/problems/strobogrammatic-number/)        |
+| 247  | Strobogrammatic Number II                                |        | Medium | [Link](https://leetcode.com/problems/strobogrammatic-number-ii/)     |
+| 248  | Strobogrammatic Number III                               |        | Hard   | [Link](https://leetcode.com/problems/strobogrammatic-number-iii/)    |
+| 249  | Group Shifted Strings                                    |        | Medium | [Link](https://leetcode.com/problems/group-shifted-strings/)         |
+| 250  | Count Univalue Subtrees                                  |        | Easy   | [Link](https://leetcode.com/problems/count-univalue-subtrees/)       |
+| 251  | Flatten 2D Vector                                        |        | Medium | [Link](https://leetcode.com/problems/flatten-2d-vector/)             |
+| 252  | Meeting Rooms                                            |        | Easy   | [Link](https://leetcode.com/problems/meeting-rooms/)                |
+| 253  | Meeting Rooms II                                         |        | Medium | [Link](https://leetcode.com/problems/meeting-rooms-ii/)             |
+| 254  | Factor Combinations                                     |        | Medium | [Link](https://leetcode.com/problems/factor-combinations/)          |
+| 255  | Verify Preorder Sequence in Binary Search Tree           |        | Medium | [Link](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) |
+| 256  | Paint House                                              |        | Easy   | [Link](https://leetcode.com/problems/paint-house/)                   |
+| 257  | Binary Tree Paths                                       |        | Easy   | [Link](https://leetcode.com/problems/binary-tree-paths/)             |
+| 258  | Add Digits                                               |        | Easy   | [Link](https://leetcode.com/problems/add-digits/)                  |
+| 259  | 3Sum Smaller                                             |        | Medium | [Link](https://leetcode.com/problems/3sum-smaller/)                 |
+| 260  | Single Number III                                        |        | Medium | [Link](https://leetcode.com/problems/single-number-iii/)            |
+| 261  | Graph Valid Tree                                          |        | Medium | [Link](https://leetcode.com/problems/graph-valid-tree/)              |
+| 262  | Trips and Users                                          |        | Hard   | [Link](https://leetcode.com/problems/trips-and-users/)              |
+| 263  | Ugly Number                                              |        | Easy   | [Link](https://leetcode.com/problems/ugly-number/)                   |
+| 264  | Ugly Number II                                           |        | Medium | [Link](https://leetcode.com/problems/ugly-number-ii/)               |
+| 265  | Paint House II                                            |        | Hard   | [Link](https://leetcode.com/problems/paint-house-ii/)               |
+| 266  | Palindrome Permutation                                 |        | Easy   | [Link](https://leetcode.com/problems/palindrome-permutation/)       |
+| 267  | Palindrome Permutation II                              |        | Medium | [Link](https://leetcode.com/problems/palindrome-permutation-ii/)    |
+| 268  | Missing Number                                           |        | Easy   | [Link](https://leetcode.com/problems/missing-number/)               |
+| 269  | Alien Dictionary                                        |        | Hard   | [Link](https://leetcode.com/problems/alien-dictionary/)              |
+| 270  | Closest Binary Search Tree Value                       |        | Easy   | [Link](https://leetcode.com/problems/closest-binary-search-tree-value/) |
+| 271  | Encode and Decode Strings                                        |        | Medium | [Link](https://leetcode.com/problems/encode-and-decode-strings/)    |
+| 272  | Closest Binary Search Tree Value II                              |        | Medium | [Link](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) |
+| 273  | Integer to English Words                                        |        | Hard   | [Link](https://leetcode.com/problems/integer-to-english-words/)      |
+| 274  | H-Index                                                          |        | Medium | [Link](https://leetcode.com/problems/h-index/)                       |
+| 275  | H-Index II                                                       |        | Medium | [Link](https://leetcode.com/problems/h-index-ii/)                    |
+| 276  | Paint Fence                                                      |        | Medium | [Link](https://leetcode.com/problems/paint-fence/)                   |
+| 277  | Find the Celebrity                                                |        | Medium | [Link](https://leetcode.com/problems/find-the-celebrity/)            |
+| 278  | First Bad Version                                                |        | Easy   | [Link](https://leetcode.com/problems/first-bad-version/)             |
+| 279  | Perfect Squares                                                  |        | Medium | [Link](https://leetcode.com/problems/perfect-squares/)               |
+| 280  | Wiggle Sort                                                      |        | Medium | [Link](https://leetcode.com/problems/wiggle-sort/)                   |
+| 281  | Zigzag Iterator                                                  |        | Medium | [Link](https://leetcode.com/problems/zigzag-iterator/)               |
+| 282  | Expression Add Operators                                         |        | Hard   | [Link](https://leetcode.com/problems/expression-add-operators/)      |
+| 283  | Move Zeroes                                                      |        | Easy   | [Link](https://leetcode.com/problems/move-zeroes/)                   |
+| 284  | Peeking Iterator                                                 |        | Medium | [Link](https://leetcode.com/problems/peeking-iterator/)              |
+| 285  | Inorder Successor in BST                                         |        | Medium | [Link](https://leetcode.com/problems/inorder-successor-in-bst/)      |
+| 286  | Walls and Gates                                                  |        | Medium | [Link](https://leetcode.com/problems/walls-and-gates/)               |
+| 287  | Find the Duplicate Number                                        |        | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/)     |
+| 288  | Unique Word Abbreviation                                        |        | Medium | [Link](https://leetcode.com/problems/unique-word-abbreviation/)      |
+| 289  | Game of Life                                                     |        | Medium | [Link](https://leetcode.com/problems/game-of-life/)                  |
+| 290  | Word Pattern                                                     |        | Easy   | [Link](https://leetcode.com/problems/word-pattern/)                  |
+| 291  | Word Pattern II                                                 |        | Hard   | [Link](https://leetcode.com/problems/word-pattern-ii/)               |
+| 292  | Nim Game                                                         |        | Easy   | [Link](https://leetcode.com/problems/nim-game/)                      |
+| 293  | Flip Game                                                       |        | Easy   | [Link](https://leetcode.com/problems/flip-game/)                     |
+| 294  | Flip Game II                                                    |        | Medium | [Link](https://leetcode.com/problems/flip-game-ii/)                  |
+| 295  | Find Median from Data Stream                                     |        | Hard   | [Link](https://leetcode.com/problems/find-median-from-data-stream/)  |
+| 296  | Best Meeting Point                                               |        | Hard   | [Link](https://leetcode.com/problems/best-meeting-point/)            |
+| 297  | Serialize and Deserialize Binary Tree                          |        | Hard   | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
+| 298  | Binary Tree Longest Consecutive Sequence                        |        | Medium | [Link](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) |
+| 299  | Bulls and Cows                                                   |        | Medium | [Link](https://leetcode.com/problems/bulls-and-cows/)                |
+| 300  | Longest Increasing Subsequence                                   |        | Medium | [Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
 
 
