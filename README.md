@@ -124,7 +124,7 @@ This repository includes detailed solutions to problems I’ve solved on LeetCod
 | 115  | Distinct Subsequences                     |        | Hard   | [Link](https://leetcode.com/problems/distinct-subsequences/)      |
 | 116  | Populating Next Right Pointers in Each Node |      | Medium | [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |
 | 117  | Populating Next Right Pointers in Each Node II |    | Medium | [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) |
-| 118  | Pascal's Triangle                          |        | Easy   | [Link](https://leetcode.com/problems/pascals-triangle/)           |
+| 118  | Pascal's Triangle                          | Pattern, Recursion, DP, Basic Maths       | Easy   | [Link](https://leetcode.com/problems/pascals-triangle/)           |
 | 119  | Pascal's Triangle II                       |        | Easy   | [Link](https://leetcode.com/problems/pascals-triangle-ii/)        |
 | 120  | Triangle                                   |        | Medium | [Link](https://leetcode.com/problems/triangle/)                   |
 | 121  | Best Time to Buy and Sell Stock           |        | Easy   | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
