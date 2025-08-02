@@ -167,5 +167,55 @@ This repository includes detailed solutions to problems I’ve solved on LeetCod
 | 158  | Read N Characters Given Read4 II - Call multiple times |    | Hard   | [Link](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) |
 | 159  | Longest Substring with At Most Two Distinct Characters | | Hard | [Link](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) |
 | 160  | Intersection of Two Linked Lists          |        | Easy   | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
+| 161  | One Edit Distance                                      |        | Medium | [Link](https://leetcode.com/problems/one-edit-distance/)             |
+| 162  | Find Peak Element                                      |        | Medium | [Link](https://leetcode.com/problems/find-peak-element/)             |
+| 163  | Missing Ranges                                         |        | Medium | [Link](https://leetcode.com/problems/missing-ranges/)                |
+| 164  | Maximum Gap                                            |        | Hard   | [Link](https://leetcode.com/problems/maximum-gap/)                   |
+| 165  | Compare Version Numbers                                |        | Medium | [Link](https://leetcode.com/problems/compare-version-numbers/)       |
+| 166  | Fraction to Recurring Decimal                          |        | Medium | [Link](https://leetcode.com/problems/fraction-to-recurring-decimal/) |
+| 167  | Two Sum II - Input Array Is Sorted                     |        | Medium | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 168  | Excel Sheet Column Title                               |        | Easy   | [Link](https://leetcode.com/problems/excel-sheet-column-title/)      |
+| 169  | Majority Element                                       |        | Easy   | [Link](https://leetcode.com/problems/majority-element/)              |
+| 170  | Two Sum III - Data structure design                    |        | Easy   | [Link](https://leetcode.com/problems/two-sum-iii-data-structure-design/) |
+| 171  | Excel Sheet Column Number                              |        | Easy   | [Link](https://leetcode.com/problems/excel-sheet-column-number/)     |
+| 172  | Factorial Trailing Zeroes                              |        | Medium | [Link](https://leetcode.com/problems/factorial-trailing-zeroes/)     |
+| 173  | Binary Search Tree Iterator                            |        | Medium | [Link](https://leetcode.com/problems/binary-search-tree-iterator/)   |
+| 174  | Dungeon Game                                           |        | Hard   | [Link](https://leetcode.com/problems/dungeon-game/)                  |
+| 175  | Combine Two Tables (SQL)                               |        | Easy   | [Link](https://leetcode.com/problems/combine-two-tables/)            |
+| 176  | Second Highest Salary (SQL)                            |        | Medium | [Link](https://leetcode.com/problems/second-highest-salary/)         |
+| 177  | Nth Highest Salary (SQL)                               |        | Medium | [Link](https://leetcode.com/problems/nth-highest-salary/)            |
+| 178  | Rank Scores (SQL)                                      |        | Medium | [Link](https://leetcode.com/problems/rank-scores/)                   |
+| 179  | Largest Number                                         |        | Medium | [Link](https://leetcode.com/problems/largest-number/)                |
+| 180  | Consecutive Numbers (SQL)                              |        | Medium | [Link](https://leetcode.com/problems/consecutive-numbers/)           |
+| 181  | Employees Earning More Than Their Managers             |        | Easy   | [Link](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |
+| 182  | Duplicate Emails                                       |        | Easy   | [Link](https://leetcode.com/problems/duplicate-emails/)              |
+| 183  | Customers Who Never Order                              |        | Easy   | [Link](https://leetcode.com/problems/customers-who-never-order/)     |
+| 184  | Department Highest Salary                              |        | Medium | [Link](https://leetcode.com/problems/department-highest-salary/)     |
+| 185  | Department Top Three Salaries                          |        | Hard   | [Link](https://leetcode.com/problems/department-top-three-salaries/) |
+| 186  | Reverse Words in a String II                           |        | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string-ii/)   |
+| 187  | Repeated DNA Sequences                                 |        | Medium | [Link](https://leetcode.com/problems/repeated-dna-sequences/)         |
+| 188  | Best Time to Buy and Sell Stock IV                     |        | Medium | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) |
+| 189  | Rotate Array                                           |        | Medium | [Link](https://leetcode.com/problems/rotate-array/)                  |
+| 190  | Reverse Bits                                           |        | Easy   | [Link](https://leetcode.com/problems/reverse-bits/)                  |
+| 191  | Number of 1 Bits                                       |        | Easy   | [Link](https://leetcode.com/problems/number-of-1-bits/)              |
+| 192  | Word Frequency                                         |        | Easy   | [Link](https://leetcode.com/problems/word-frequency/)                 |
+| 193  | Valid Phone Numbers                                     |        | Easy   | [Link](https://leetcode.com/problems/valid-phone-numbers/)           |
+| 194  | Transpose File                                          |        | Medium | [Link](https://leetcode.com/problems/transpose-file/)                |
+| 195  | Tenth Line                                              |        | Easy   | [Link](https://leetcode.com/problems/tenth-line/)                    |
+| 196  | Delete Duplicate Emails                                |        | Medium | [Link](https://leetcode.com/problems/delete-duplicate-emails/)        |
+| 197  | Rising Temperature                                     |        | Easy   | [Link](https://leetcode.com/problems/rising-temperature/)            |
+| 198  | House Robber                                           |        | Medium | [Link](https://leetcode.com/problems/house-robber/)                  |
+| 199  | Binary Tree Right Side View                            |        | Medium | [Link](https://leetcode.com/problems/binary-tree-right-side-view/)   |
+| 200  | Number of Islands                                      |        | Medium | [Link](https://leetcode.com/problems/number-of-islands/)             |
+| 201  | Bitwise AND of Numbers Range                           |        | Medium | [Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/)  |
+| 202  | Happy Number                                            |        | Easy   | [Link](https://leetcode.com/problems/happy-number/)                  |
+| 203  | Remove Linked List Elements                            |        | Easy   | [Link](https://leetcode.com/problems/remove-linked-list-elements/)  |
+| 204  | Count Primes                                            |        | Medium | [Link](https://leetcode.com/problems/count-primes/)                  |
+| 205  | Isomorphic Strings                                     |        | Easy   | [Link](https://leetcode.com/problems/isomorphic-strings/)             |
+| 206  | Reverse Linked List                                     |        | Easy   | [Link](https://leetcode.com/problems/reverse-linked-list/)           |
+| 207  | Course Schedule                                         |        | Medium | [Link](https://leetcode.com/problems/course-schedule/)               |
+| 208  | Implement Trie (Prefix Tree)                           |        | Medium | [Link](https://leetcode.com/problems/implement-trie-prefix-tree/)    |
+| 209  | Minimum Size Subarray Sum                              |        | Medium | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/)     |
+| 210  | Course Schedule II                                      |        | Medium | [Link](https://leetcode.com/problems/course-schedule-ii/)            |
 
 
