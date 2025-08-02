@@ -67,5 +67,65 @@ This repository includes detailed solutions to problems I’ve solved on LeetCod
 | 58  | Length of Last Word                        |        | Easy   | [Link](https://leetcode.com/problems/length-of-last-word/)        |
 | 59  | Spiral Matrix II                           |        | Medium | [Link](https://leetcode.com/problems/spiral-matrix-ii/)           |
 | 60  | Permutation Sequence                       |        | Hard   | [Link](https://leetcode.com/problems/permutation-sequence/)       |
+| 61  | Rotate List                                |        | Medium | [Link](https://leetcode.com/problems/rotate-list/)                |
+| 62  | Unique Paths                               |        | Medium | [Link](https://leetcode.com/problems/unique-paths/)               |
+| 63  | Unique Paths II                            |        | Medium | [Link](https://leetcode.com/problems/unique-paths-ii/)            |
+| 64  | Minimum Path Sum                           |        | Medium | [Link](https://leetcode.com/problems/minimum-path-sum/)           |
+| 65  | Valid Number                               |        | Hard   | [Link](https://leetcode.com/problems/valid-number/)               |
+| 66  | Plus One                                   |        | Easy   | [Link](https://leetcode.com/problems/plus-one/)                   |
+| 67  | Add Binary                                 |        | Easy   | [Link](https://leetcode.com/problems/add-binary/)                 |
+| 68  | Text Justification                         |        | Hard   | [Link](https://leetcode.com/problems/text-justification/)         |
+| 69  | Sqrt(x)                                    |        | Easy   | [Link](https://leetcode.com/problems/sqrtx/)                      |
+| 70  | Climbing Stairs                            |        | Easy   | [Link](https://leetcode.com/problems/climbing-stairs/)            |
+| 71  | Simplify Path                              |        | Medium | [Link](https://leetcode.com/problems/simplify-path/)              |
+| 72  | Edit Distance                              |        | Hard   | [Link](https://leetcode.com/problems/edit-distance/)              |
+| 73  | Set Matrix Zeroes                          |        | Medium | [Link](https://leetcode.com/problems/set-matrix-zeroes/)          |
+| 74  | Search a 2D Matrix                         |        | Medium | [Link](https://leetcode.com/problems/search-a-2d-matrix/)         |
+| 75  | Sort Colors                                |        | Medium | [Link](https://leetcode.com/problems/sort-colors/)                |
+| 76  | Minimum Window Substring                   |        | Hard   | [Link](https://leetcode.com/problems/minimum-window-substring/)   |
+| 77  | Combinations                               |        | Medium | [Link](https://leetcode.com/problems/combinations/)               |
+| 78  | Subsets                                    |        | Medium | [Link](https://leetcode.com/problems/subsets/)                    |
+| 79  | Word Search                                |        | Medium | [Link](https://leetcode.com/problems/word-search/)                |
+| 80  | Remove Duplicates from Sorted Array II     |        | Medium | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
+| 81  | Search in Rotated Sorted Array II          |        | Medium | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |
+| 82  | Remove Duplicates from Sorted List II      |        | Medium | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |
+| 83  | Remove Duplicates from Sorted List         |        | Easy   | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+| 84  | Largest Rectangle in Histogram             |        | Hard   | [Link](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
+| 85  | Maximal Rectangle                           |        | Hard   | [Link](https://leetcode.com/problems/maximal-rectangle/)         |
+| 86  | Partition List                             |        | Medium | [Link](https://leetcode.com/problems/partition-list/)             |
+| 87  | Scramble String                            |        | Hard   | [Link](https://leetcode.com/problems/scramble-string/)            |
+| 88  | Merge Sorted Array                         |        | Easy   | [Link](https://leetcode.com/problems/merge-sorted-array/)         |
+| 89  | Gray Code                                  |        | Medium | [Link](https://leetcode.com/problems/gray-code/)                  |
+| 90  | Subsets II                                 |        | Medium | [Link](https://leetcode.com/problems/subsets-ii/)                 |
+| 91  | Decode Ways                                |        | Medium | [Link](https://leetcode.com/problems/decode-ways/)                |
+| 92  | Reverse Linked List II                     |        | Medium | [Link](https://leetcode.com/problems/reverse-linked-list-ii/)     |
+| 93  | Restore IP Addresses                       |        | Medium | [Link](https://leetcode.com/problems/restore-ip-addresses/)       |
+| 94  | Binary Tree Inorder Traversal              |        | Easy   | [Link](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 95  | Unique Binary Search Trees II              |        | Medium | [Link](https://leetcode.com/problems/unique-binary-search-trees-ii/) |
+| 96  | Unique Binary Search Trees                 |        | Medium | [Link](https://leetcode.com/problems/unique-binary-search-trees/) |
+| 97  | Interleaving String                        |        | Medium | [Link](https://leetcode.com/problems/interleaving-string/)        |
+| 98  | Validate Binary Search Tree                |        | Medium | [Link](https://leetcode.com/problems/validate-binary-search-tree/) |
+| 99  | Recover Binary Search Tree                 |        | Hard   | [Link](https://leetcode.com/problems/recover-binary-search-tree/) |
+| 100 | Same Tree                                  |        | Easy   | [Link](https://leetcode.com/problems/same-tree/)                  |
+| 101  | Symmetric Tree                            |        | Easy   | [Link](https://leetcode.com/problems/symmetric-tree/)             |
+| 102  | Binary Tree Level Order Traversal         |        | Medium | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 103  | Binary Tree Zigzag Level Order Traversal  |        | Medium | [Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |
+| 104  | Maximum Depth of Binary Tree              |        | Easy   | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 105  | Construct Binary Tree from Preorder and Inorder Traversal |  | Medium | [Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |
+| 106  | Construct Binary Tree from Inorder and Postorder Traversal | | Medium | [Link](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
+| 107  | Binary Tree Level Order Traversal II      |        | Medium | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) |
+| 108  | Convert Sorted Array to Binary Search Tree|        | Easy   | [Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
+| 109  | Convert Sorted List to Binary Search Tree |        | Medium | [Link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |
+| 110  | Balanced Binary Tree                      |        | Easy   | [Link](https://leetcode.com/problems/balanced-binary-tree/)       |
+| 111  | Minimum Depth of Binary Tree              |        | Easy   | [Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
+| 112  | Path Sum                                   |        | Easy   | [Link](https://leetcode.com/problems/path-sum/)                   |
+| 113  | Path Sum II                                |        | Medium | [Link](https://leetcode.com/problems/path-sum-ii/)                |
+| 114  | Flatten Binary Tree to Linked List        |        | Medium | [Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
+| 115  | Distinct Subsequences                     |        | Hard   | [Link](https://leetcode.com/problems/distinct-subsequences/)      |
+| 116  | Populating Next Right Pointers in Each Node |      | Medium | [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |
+| 117  | Populating Next Right Pointers in Each Node II |    | Medium | [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) |
+| 118  | Pascal's Triangle                          |        | Easy   | [Link](https://leetcode.com/problems/pascals-triangle/)           |
+| 119  | Pascal's Triangle II                       |        | Easy   | [Link](https://leetcode.com/problems/pascals-triangle-ii/)        |
+| 120  | Triangle                                   |        | Medium | [Link](https://leetcode.com/problems/triangle/)                   |
 
 
