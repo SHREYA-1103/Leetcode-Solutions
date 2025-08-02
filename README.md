@@ -5,8 +5,8 @@ This repository includes detailed solutions to problems I’ve solved on LeetCod
 
 ## Table of Contents
 
-| #   | Problem Name                               | Topics | Level | Link                                                              |
-|-----|--------------------------------------------|--------|-------|-------------------------------------------------------------------|
+| #   | Problem Name                               | Topics | Level | Problem Link                                                      | Solution link |
+|-----|--------------------------------------------|--------|-------|-------------------------------------------------------------------|---------------------------------|
 | 1   | Two Sum                                    |        | Easy  | [Link](https://leetcode.com/problems/two-sum/)                   |
 | 2   | Add Two Numbers                            |        | Medium| [Link](https://leetcode.com/problems/add-two-numbers/)           |
 | 3   | Longest Substring Without Repeating Chars  |        | Medium| [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
@@ -124,7 +124,7 @@ This repository includes detailed solutions to problems I’ve solved on LeetCod
 | 115  | Distinct Subsequences                     |        | Hard   | [Link](https://leetcode.com/problems/distinct-subsequences/)      |
 | 116  | Populating Next Right Pointers in Each Node |      | Medium | [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |
 | 117  | Populating Next Right Pointers in Each Node II |    | Medium | [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) |
-| 118  | Pascal's Triangle                          | Pattern, Recursion, DP, Basic Maths       | Easy   | [Link](https://leetcode.com/problems/pascals-triangle/)           |
+| 118  | Pascal's Triangle                | Pattern, Recursion, DP, Basic Maths       | Easy   | [Link](https://leetcode.com/problems/pascals-triangle/) | [Link] (https://github.com/SHREYA-1103/Leetcode-Solutions/blob/main/Easy/PascalTriangle_118.java)
 | 119  | Pascal's Triangle II                       |        | Easy   | [Link](https://leetcode.com/problems/pascals-triangle-ii/)        |
 | 120  | Triangle                                   |        | Medium | [Link](https://leetcode.com/problems/triangle/)                   |
 | 121  | Best Time to Buy and Sell Stock           |        | Easy   | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
